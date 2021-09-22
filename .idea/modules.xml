@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/flutter_open_whatsapp.iml" filepath="$PROJECT_DIR$/flutter_open_whatsapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/android/flutter_open_whatsapp_android.iml" filepath="$PROJECT_DIR$/android/flutter_open_whatsapp_android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/example/android/flutter_open_whatsapp_example_android.iml" filepath="$PROJECT_DIR$/example/android/flutter_open_whatsapp_example_android.iml" />
     </modules>
   </component>
 </project>
